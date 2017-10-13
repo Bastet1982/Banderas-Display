@@ -1,0 +1,26 @@
+.yellow{
+	background-color: gold;
+	padding-bottom:0.1em;
+    display:inline-block;
+
+} 
+
+.grey{
+	background-color: grey;
+	padding-bottom:0.1em;
+	display: inline-block;
+	margin:20px;
+}
+
+h4,p{
+	padding: 0.4em;
+	margin: 0;
+}
+
+p{
+	color: white;
+}
+
+.black{
+	color:black;
+}
